@@ -13,7 +13,6 @@
   "author": "kharismaprams",
   "license": "MIT",
   "dependencies": {
-    // tambahkan dependency yang diperlukan di sini
     "discord-push-rank-api": "^4.0.2",
     "mencari": "^1.1.4",
     "airdropfinder": "14.1.3",
