@@ -14,7 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "mencari": "^1.2.3",
-    "@richxprams/discord-push-rank-api": "^1.1.9",
     "discord-push-rank-api": "^1.2.2",
     "@richxprams/dc-push-rank-new": "^1.1.4",
     "dc-push-rank-new": "^1.2.8",
