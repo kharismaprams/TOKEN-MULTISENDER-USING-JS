@@ -13,11 +13,12 @@
   "author": "kharismaprams",
   "license": "MIT",
   "dependencies": {
-    "discord-push-rank-api": "^4.0.2",
-    "mencari": "^1.1.4",
-    "airdropfinder": "14.1.3",
-    "teaproject": "^18",
-    "web3": "^18"
+    "mencari": "^1.2.3",
+    "@richxprams/discord-push-rank-api": "^1.1.9",
+    "discord-push-rank-api": "^1.2.2",
+    "@richxprams/dc-push-rank-new": "^1.1.4",
+    "dc-push-rank-new": "^1.2.8",
+    "@richxprams/mencari": "^1.0.0"
   }
 }
 
